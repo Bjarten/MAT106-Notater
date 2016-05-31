@@ -1,0 +1,109 @@
+\BOOKMARK [1][-]{section.1}{Grunnleggende}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Potensregler}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Kvadratsetningen}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{ln}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Delbr\370koppspalting}{section.1}% 5
+\BOOKMARK [3][-]{subsubsection.1.4.1}{Heaviside cover-up method}{subsection.1.4}% 6
+\BOOKMARK [2][-]{subsection.1.5}{LHopitals regel}{section.1}% 7
+\BOOKMARK [2][-]{subsection.1.6}{Regneregler for n-fakultet}{section.1}% 8
+\BOOKMARK [2][-]{subsection.1.7}{Vekst av funksjoner}{section.1}% 9
+\BOOKMARK [2][-]{subsection.1.8}{Binomialformelen}{section.1}% 10
+\BOOKMARK [2][-]{subsection.1.9}{Absoluttverdi}{section.1}% 11
+\BOOKMARK [1][-]{section.2}{Komplekse tall}{}% 12
+\BOOKMARK [2][-]{subsection.2.1}{Komplekse tall}{section.2}% 13
+\BOOKMARK [2][-]{subsection.2.2}{i}{section.2}% 14
+\BOOKMARK [2][-]{subsection.2.3}{Konjuglasjon}{section.2}% 15
+\BOOKMARK [2][-]{subsection.2.4}{Divisjon}{section.2}% 16
+\BOOKMARK [2][-]{subsection.2.5}{Andregradsligninger}{section.2}% 17
+\BOOKMARK [1][-]{section.3}{Geometrisk tolkning av komplekse tall}{}% 18
+\BOOKMARK [2][-]{subsection.3.1}{Vektoroperasjoner}{section.3}% 19
+\BOOKMARK [2][-]{subsection.3.2}{Polarkoordinater}{section.3}% 20
+\BOOKMARK [2][-]{subsection.3.3}{Multiplikasjon}{section.3}% 21
+\BOOKMARK [2][-]{subsection.3.4}{Divisjon}{section.3}% 22
+\BOOKMARK [2][-]{subsection.3.5}{Den komplekse eksponentialfunksjonen}{section.3}% 23
+\BOOKMARK [2][-]{subsection.3.6}{Potenser av komplekse tall}{section.3}% 24
+\BOOKMARK [3][-]{subsubsection.3.6.1}{Oppgaver med l\370sningsforslag}{subsection.3.6}% 25
+\BOOKMARK [2][-]{subsection.3.7}{R\370tter av komplekse tall}{section.3}% 26
+\BOOKMARK [2][-]{subsection.3.8}{Komplekse andregradslikninger}{section.3}% 27
+\BOOKMARK [3][-]{subsubsection.3.8.1}{Oppgaver med l\370sningsforslag}{subsection.3.8}% 28
+\BOOKMARK [2][-]{subsection.3.9}{Faktorisering}{section.3}% 29
+\BOOKMARK [2][-]{subsection.3.10}{Visere}{section.3}% 30
+\BOOKMARK [1][-]{section.4}{F\370lger}{}% 31
+\BOOKMARK [2][-]{subsection.4.1}{Grenseverdi for f\370lger}{section.4}% 32
+\BOOKMARK [2][-]{subsection.4.2}{Divergens mot uendelig}{section.4}% 33
+\BOOKMARK [2][-]{subsection.4.3}{Regneregler for f\370lger}{section.4}% 34
+\BOOKMARK [1][-]{section.5}{Definisjon av rekke}{}% 35
+\BOOKMARK [2][-]{subsection.5.1}{Summen av en rekke}{section.5}% 36
+\BOOKMARK [2][-]{subsection.5.2}{Geometriske rekker}{section.5}% 37
+\BOOKMARK [3][-]{subsubsection.5.2.1}{Oppgaver med l\370sningsforslag}{subsection.5.2}% 38
+\BOOKMARK [2][-]{subsection.5.3}{Regneregler for rekker}{section.5}% 39
+\BOOKMARK [2][-]{subsection.5.4}{Oppgaver med l\370sningsforslag}{section.5}% 40
+\BOOKMARK [1][-]{section.6}{Konvergenstesting og summering av rekker}{}% 41
+\BOOKMARK [2][-]{subsection.6.1}{Divergenstesten}{section.6}% 42
+\BOOKMARK [2][-]{subsection.6.2}{Leibniz-testen}{section.6}% 43
+\BOOKMARK [3][-]{subsubsection.6.2.1}{Oppgaver med l\370sningforslag}{subsection.6.2}% 44
+\BOOKMARK [2][-]{subsection.6.3}{P-rekke}{section.6}% 45
+\BOOKMARK [2][-]{subsection.6.4}{Integraltesten}{section.6}% 46
+\BOOKMARK [2][-]{subsection.6.5}{Sammenligningstesten}{section.6}% 47
+\BOOKMARK [3][-]{subsubsection.6.5.1}{Oppgaver med l\370sningsforslag}{subsection.6.5}% 48
+\BOOKMARK [2][-]{subsection.6.6}{Grensesammenligningstesten}{section.6}% 49
+\BOOKMARK [2][-]{subsection.6.7}{Forholdstesten}{section.6}% 50
+\BOOKMARK [2][-]{subsection.6.8}{Rottesten}{section.6}% 51
+\BOOKMARK [2][-]{subsection.6.9}{Spesielle grenseverdier}{section.6}% 52
+\BOOKMARK [2][-]{subsection.6.10}{Oppsumering}{section.6}% 53
+\BOOKMARK [2][-]{subsection.6.11}{Tips for rekkef\370lge}{section.6}% 54
+\BOOKMARK [1][-]{section.7}{Potensrekker}{}% 55
+\BOOKMARK [2][-]{subsubsection.7.0.1}{Oppgaver med l\370sningsforslag}{section.7}% 56
+\BOOKMARK [1][-]{section.8}{Taylor-rekker}{}% 57
+\BOOKMARK [2][-]{subsection.8.1}{Taylor-polynom}{section.8}% 58
+\BOOKMARK [2][-]{subsection.8.2}{Kjente maclaurinrekker}{section.8}% 59
+\BOOKMARK [2][-]{subsection.8.3}{Nyttige f\370lger}{section.8}% 60
+\BOOKMARK [3][-]{subsubsection.8.3.1}{Oppgaver med l\370sningsforslag}{subsection.8.3}% 61
+\BOOKMARK [1][-]{section.9}{Trigonometriske rekker}{}% 62
+\BOOKMARK [2][-]{subsection.9.1}{Egenskaper til cosinus og sinus \(jevn og odde\)}{section.9}% 63
+\BOOKMARK [3][-]{subsubsection.9.1.1}{Cosinus}{subsection.9.1}% 64
+\BOOKMARK [3][-]{subsubsection.9.1.2}{Sinus}{subsection.9.1}% 65
+\BOOKMARK [2][-]{subsection.9.2}{Flere hele \040for cosinus og sinus}{section.9}% 66
+\BOOKMARK [3][-]{subsubsection.9.2.1}{Cosinus}{subsection.9.2}% 67
+\BOOKMARK [3][-]{subsubsection.9.2.2}{Sinus}{subsection.9.2}% 68
+\BOOKMARK [2][-]{subsection.9.3}{Noen nyttige integraler}{section.9}% 69
+\BOOKMARK [2][-]{subsection.9.4}{Periodiske funksjoner}{section.9}% 70
+\BOOKMARK [2][-]{subsection.9.5}{Fourier-rekker}{section.9}% 71
+\BOOKMARK [2][-]{subsection.9.6}{Fourier-rekker av jevne funksjoner}{section.9}% 72
+\BOOKMARK [2][-]{subsection.9.7}{Fourier-rekker av odde funksjoner}{section.9}% 73
+\BOOKMARK [2][-]{subsection.9.8}{Halvperiodiske utvidelser}{section.9}% 74
+\BOOKMARK [3][-]{subsubsection.9.8.1}{Jevn funskjon}{subsection.9.8}% 75
+\BOOKMARK [3][-]{subsubsection.9.8.2}{Odde funskjon}{subsection.9.8}% 76
+\BOOKMARK [2][-]{subsection.9.9}{Konvergens for Fourier-rekker}{section.9}% 77
+\BOOKMARK [2][-]{subsection.9.10}{Oppgaver med l\370sningsforslag}{section.9}% 78
+\BOOKMARK [1][-]{section.10}{Deifferensligninger}{}% 79
+\BOOKMARK [2][-]{subsection.10.1}{Karakteristisk ligning og homogene differensligninger av andre orden}{section.10}% 80
+\BOOKMARK [2][-]{subsection.10.2}{Inhomogene differensligninger}{section.10}% 81
+\BOOKMARK [1][-]{section.11}{Line\346r algebra}{}% 82
+\BOOKMARK [2][-]{subsection.11.1}{Trappeform}{section.11}% 83
+\BOOKMARK [2][-]{subsection.11.2}{Redusert trappeform}{section.11}% 84
+\BOOKMARK [2][-]{subsection.11.3}{Determinanter}{section.11}% 85
+\BOOKMARK [3][-]{subsubsection.11.3.1}{2x2 matrise}{subsection.11.3}% 86
+\BOOKMARK [3][-]{subsubsection.11.3.2}{3x3 matrise}{subsection.11.3}% 87
+\BOOKMARK [2][-]{subsection.11.4}{Singul\346r matrise}{section.11}% 88
+\BOOKMARK [2][-]{subsection.11.5}{Inverse matriser}{section.11}% 89
+\BOOKMARK [3][-]{subsubsection.11.5.1}{Invers til 2x2 matrisen}{subsection.11.5}% 90
+\BOOKMARK [3][-]{subsubsection.11.5.2}{Invers til 3x3 matrisen}{subsection.11.5}% 91
+\BOOKMARK [2][-]{subsection.11.6}{Pivot-element}{section.11}% 92
+\BOOKMARK [2][-]{subsection.11.7}{Rang}{section.11}% 93
+\BOOKMARK [2][-]{subsection.11.8}{Relaterte begreper}{section.11}% 94
+\BOOKMARK [2][-]{subsection.11.9}{Egenverdier og egenvektorer}{section.11}% 95
+\BOOKMARK [2][-]{subsection.11.10}{Nullrommet}{section.11}% 96
+\BOOKMARK [2][-]{subsection.11.11}{Diagonalisering}{section.11}% 97
+\BOOKMARK [2][-]{subsection.11.12}{Potenser av matriser}{section.11}% 98
+\BOOKMARK [2][-]{subsection.11.13}{Symmetriske matriser og ortogonal diagonalisering}{section.11}% 99
+\BOOKMARK [2][-]{subsection.11.14}{Underrom av Rn }{section.11}% 100
+\BOOKMARK [3][-]{subsubsection.11.14.1}{Kolonnerom}{subsection.11.14}% 101
+\BOOKMARK [3][-]{subsubsection.11.14.2}{Radrom}{subsection.11.14}% 102
+\BOOKMARK [2][-]{subsection.11.15}{Oppgaver med l\370sningsforslag}{section.11}% 103
+\BOOKMARK [1][-]{section.12}{Laplace-transformasjon}{}% 104
+\BOOKMARK [2][-]{subsection.12.1}{The step function}{section.12}% 105
+\BOOKMARK [2][-]{subsection.12.2}{Firkant puls}{section.12}% 106
+\BOOKMARK [1][-]{section.13}{Funksjoner av flere variabler}{}% 107
+\BOOKMARK [2][-]{subsection.13.1}{Gradient og retningsderivert}{section.13}% 108
+\BOOKMARK [3][-]{subsubsection.13.1.1}{Ekstremalverdier for funksjoner i flere variabler}{subsection.13.1}% 109
